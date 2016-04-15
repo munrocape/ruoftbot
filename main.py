@@ -21,4 +21,4 @@ if __name__ == '__main__':
     pw = getpw()
     r.login('ruoftbot', getpw())
 
-    r.send_message('ssjjawa', 'Subject Line', 'You are awesome!')
+    #r.send_message('ssjjawa', 'Subject Line', 'You are awesome!')
